@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,MACE,cAAe,CAChB,kBAGC,YAAa,CACb,kBAAmB,CACpB,aAGC,iBAAkB","file":"main.6bebae06.chunk.css","sourcesContent":[".card {\n  padding: 0 25px;\n}\n\n.button-container {\n  display: flex;\n  margin-bottom: 50px;\n}\n\n.btn-primary {\n  margin-right: 25px;\n}\n"]}
